@@ -21,4 +21,4 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degisti
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Capturefrom_my_project](\img\capture.png)
+![Capturefrom_my_project](https://raw.githubusercontent.com/fikrikaymak/kodluyoruzilkrepo/main/Img/Capture.PNG)
