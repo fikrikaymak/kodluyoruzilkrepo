@@ -20,3 +20,4 @@ code .
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+![Img](../../../Desktop/Capture.PNG)
